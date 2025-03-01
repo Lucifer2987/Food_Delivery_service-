@@ -1,0 +1,81 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-error.log
+.pnpm-debug.log*
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Build output
+dist/
+build/
+.cache/
+.vite/
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+.env.*.local
+
+# TypeScript
+*.tsbuildinfo
+
+# Next.js
+.next/
+out/
+
+# Parcel-bundler cache
+.cache
+.parcel-cache
+
+# Svelte
+.svelte-kit
+
+# Storybook files
+.storybook/
+out/
+.storybook-cache/
+dist-storybook/
+
+# Miscellaneous
+*.lock
+.pnp
+.pnp.js
+
+# Firebase
+.firebase/
+firestore.rules.bak
+firestore.indexes.bak
+
+# VS Code extensions
+.vscode/
+
+# MacOS system files
+.DS_Store

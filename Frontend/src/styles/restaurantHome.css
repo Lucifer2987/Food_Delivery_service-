@@ -1,0 +1,14 @@
+.restaurant-home {
+    padding: 50px;
+    background-color: #fff;
+    text-align: center;
+  }
+  .restaurant-home h2 {
+    color: #ff4757;
+    font-size: 2rem;
+  }
+  .restaurant-home p {
+    font-size: 1.2rem;
+    color: #333;
+  }
+  

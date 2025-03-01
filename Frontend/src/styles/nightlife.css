@@ -1,0 +1,15 @@
+.nightlife-page {
+    padding: 50px;
+    background-color: #222;
+    color: #fff;
+    text-align: center;
+  }
+  .nightlife-page h2 {
+    font-size: 2rem;
+    color: #ffcc00;
+  }
+  .nightlife-page p {
+    font-size: 1.2rem;
+    color: #ccc;
+  }
+  

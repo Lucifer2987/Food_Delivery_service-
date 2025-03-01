@@ -1,0 +1,20 @@
+.get-the-app {
+    padding: 50px;
+    background-color: #fff;
+    text-align: center;
+  }
+  .get-the-app h2 {
+    color: #ff4757;
+    font-size: 2rem;
+  }
+  .get-the-app p {
+    font-size: 1.2rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  .app-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  

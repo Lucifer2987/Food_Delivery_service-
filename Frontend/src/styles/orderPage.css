@@ -1,0 +1,13 @@
+.order-page {
+    padding: 50px;
+    background-color: #f8f9fa;
+    text-align: center;
+  }
+  .order-page h2 {
+    color: #ff4757;
+    font-size: 2rem;
+  }
+  .order-page p {
+    font-size: 1.2rem;
+    color: #333;
+  }

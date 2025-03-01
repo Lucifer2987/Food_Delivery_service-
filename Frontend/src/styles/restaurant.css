@@ -1,0 +1,14 @@
+.restaurants {
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .restaurants h2 {
+    color: #ff4757;
+  }
+  
+  .restaurants p {
+    font-size: 1.2rem;
+    color: #57606f;
+  }
+  
